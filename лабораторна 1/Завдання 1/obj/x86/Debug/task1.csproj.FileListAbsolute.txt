@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\лр_асд\bin\Debug\ConsoleApplication.exe
+C:\Users\User\Desktop\лр_асд\bin\Debug\ConsoleApplication.pdb
+C:\Users\User\Desktop\лр_асд\obj\x86\Debug\task1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\лр_асд\obj\x86\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\лр_асд\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\User\Desktop\лр_асд\obj\x86\Debug\ConsoleApplication.pdb
